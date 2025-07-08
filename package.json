@@ -1,6 +1,6 @@
 {
   "name": "bare-wdk-runtime",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "description": "The runtime modules to make the deps of WDK run",
   "dependencies": {
