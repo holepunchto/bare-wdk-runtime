@@ -1,0 +1,50 @@
+{
+  "name": "bare-wdk-runtime",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "The runtime modules to make the deps of WDK run",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "assert": "npm:bare-assert@^1.0.2",
+    "bare-assert": "^1.0.2",
+    "bare-crypto": "^1.5.1",
+    "bare-encoding": "^1.0.0",
+    "bare-events": "^2.5.4",
+    "bare-fetch": "^2.3.1",
+    "bare-fs": "^4.1.6",
+    "bare-http1": "^4.0.2",
+    "bare-https": "^2.0.0",
+    "bare-path": "^3.0.0",
+    "bare-stream": "^2.6.5",
+    "bare-url": "^2.1.6",
+    "bare-utils": "^1.2.1",
+    "bare-zlib": "^1.3.0",
+    "crypto": "npm:bare-crypto@^1.5.1",
+    "events": "npm:bare-events@^2.5.4",
+    "fs": "npm:bare-fs@^4.1.6",
+    "http": "npm:bare-http1@^4.0.2",
+    "https": "npm:bare-https@^2.0.0",
+    "path": "npm:bare-path@^3.0.0",
+    "stream": "npm:bare-stream@^2.6.5",
+    "url": "npm:bare-url@^2.1.6",
+    "util": "npm:bare-utils@^1.2.1",
+    "zlib": "npm:bare-zlib@^1.3.0"
+  },
+  "devDependencies": {},
+  "imports": {
+    "./global": {
+      "bare": "./bare.js",
+      "default": "./global.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holepunchto/bare-wdk-runtime.git"
+  },
+  "author": "Holepunch Inc",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/bare-wdk-runtime/issues"
+  },
+  "homepage": "https://github.com/holepunchto/bare-wdk-runtime"
+}
