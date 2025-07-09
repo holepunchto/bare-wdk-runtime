@@ -20,6 +20,7 @@
     "bare-utils": "^1.2.1",
     "bare-zlib": "^1.3.0",
     "crypto": "npm:bare-crypto@^1.5.1",
+    "event-target-shim": "^6.0.2",
     "events": "npm:bare-events@^2.5.4",
     "fs": "npm:bare-fs@^4.1.6",
     "http": "npm:bare-http1@^4.0.2",
@@ -30,7 +31,6 @@
     "util": "npm:bare-utils@^1.2.1",
     "zlib": "npm:bare-zlib@^1.3.0"
   },
-  "devDependencies": {},
   "imports": {
     "./global": {
       "bare": "./bare.js",
