@@ -34,6 +34,7 @@
     "https": "npm:bare-https@^2.0.0",
     "net": "npm:bare-tcp@^2.0.5",
     "path": "npm:bare-path@^3.0.0",
+    "process": "npm:bare-process@^4.2.1",
     "stream": "npm:bare-stream@^2.6.5",
     "tls": "npm:bare-tls@^2.0.6",
     "tty": "npm:bare-tty@^5.0.2",

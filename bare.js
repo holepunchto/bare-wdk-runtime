@@ -19,5 +19,5 @@ require('crypto').getHashes = () => hs.slice(0)
 
 const w = require('@peculiar/webcrypto')
 const c = new w.Crypto()
-require('bare-crypto/global').subtle = c.subtle
+crypto.subtle = c.subtle
 // end of hack
