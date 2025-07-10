@@ -1,5 +1,6 @@
 require('bare-fetch/global')
 require('bare-encoding/global')
+require('bare-crypto/global')
 
 const { AbortController } = require('abort-controller')
 const { EventTarget } = require('event-target-shim')
