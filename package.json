@@ -1,6 +1,6 @@
 {
   "name": "bare-wdk-runtime",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "The runtime modules to make the deps of WDK run",
   "dependencies": {
     "abort-controller": "^3.0.0",
