@@ -197,7 +197,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/holepunchto/bare-wdk-runtime.git"
+    "url": "git+https://github.com/holepunchto/bare-wdk-runtime.git"
   },
   "author": "Holepunch Inc",
   "license": "Apache-2.0",
