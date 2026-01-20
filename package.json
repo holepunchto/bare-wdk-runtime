@@ -41,7 +41,7 @@
     },
     "node:assert": {
       "bare": "bare-assert",
-      "default": "node:assert"
+      "default": "assert"
     },
     "events": {
       "bare": "bare-events",
@@ -49,7 +49,7 @@
     },
     "node:events": {
       "bare": "bare-events",
-      "default": "node:events"
+      "default": "events"
     },
     "fs": {
       "bare": "bare-fs",
@@ -57,7 +57,7 @@
     },
     "node:fs": {
       "bare": "bare-fs",
-      "default": "node:fs"
+      "default": "fs"
     },
     "buffer": {
       "bare": "bare-buffer",
@@ -65,7 +65,7 @@
     },
     "node:buffer": {
       "bare": "bare-buffer",
-      "default": "node:buffer"
+      "default": "buffer"
     },
     "http": {
       "bare": "bare-http1",
@@ -73,7 +73,7 @@
     },
     "node:http": {
       "bare": "bare-http1",
-      "default": "node:http"
+      "default": "http"
     },
     "net": {
       "bare": "bare-tcp",
@@ -81,7 +81,7 @@
     },
     "node:net": {
       "bare": "bare-tcp",
-      "default": "node:net"
+      "default": "net"
     },
     "util": {
       "bare": "bare-utils",
@@ -89,7 +89,7 @@
     },
     "node:util": {
       "bare": "bare-utils",
-      "default": "node:util"
+      "default": "util"
     },
     "crypto": {
       "bare": "bare-crypto",
@@ -97,7 +97,7 @@
     },
     "node:crypto": {
       "bare": "bare-crypto",
-      "default": "node:crypto"
+      "default": "crypto"
     },
     "https": {
       "bare": "bare-https",
@@ -105,7 +105,7 @@
     },
     "node:https": {
       "bare": "bare-https",
-      "default": "node:https"
+      "default": "https"
     },
     "path": {
       "bare": "bare-path",
@@ -113,7 +113,7 @@
     },
     "node:path": {
       "bare": "bare-path",
-      "default": "node:path"
+      "default": "path"
     },
     "process": {
       "bare": "bare-process",
@@ -121,7 +121,7 @@
     },
     "node:process": {
       "bare": "bare-process",
-      "default": "node:process"
+      "default": "process"
     },
     "stream": {
       "bare": "bare-stream",
@@ -129,7 +129,7 @@
     },
     "node:stream": {
       "bare": "bare-stream",
-      "default": "node:stream"
+      "default": "stream"
     },
     "tls": {
       "bare": "bare-tls",
@@ -137,7 +137,7 @@
     },
     "node:tls": {
       "bare": "bare-tls",
-      "default": "node:tls"
+      "default": "tls"
     },
     "tty": {
       "bare": "bare-tty",
@@ -145,7 +145,7 @@
     },
     "node:tty": {
       "bare": "bare-tty",
-      "default": "node:tty"
+      "default": "tty"
     },
     "url": {
       "bare": "bare-url",
@@ -153,7 +153,7 @@
     },
     "node:url": {
       "bare": "bare-url",
-      "default": "node:url"
+      "default": "url"
     },
     "zlib": {
       "bare": "bare-zlib",
@@ -161,7 +161,7 @@
     },
     "node:zlib": {
       "bare": "bare-zlib",
-      "default": "node:zlib"
+      "default": "zlib"
     },
     "perf_hooks": {
       "bare": "bare-performance",
